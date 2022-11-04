@@ -27,3 +27,5 @@ lb2.grid(row=1, column=3, padx=4, pady=55, rowspan=4)
 LtoR_addAll = Button(text=">>",width=10,height=5,justify=CENTER, font=("Satisfy",9))
 LtoR_addAll.grid(row=1,column=1,padx=15,pady=2,ipadx=2)
 
+
+
